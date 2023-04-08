@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/GMV2Laie"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dekkosploits/Main/main/Prologue%20Code"))()
